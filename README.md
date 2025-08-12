@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <br>
-  <img src="ME.JPG" alt="naren-Profile Picture" width="300" style="border-radius:5%; max-width:100%; height:auto;" />
+  <img src="ME.JPG" alt="naren-Profile Picture" width="200" style="border-radius:5%; max-width:100%; height:auto;" />
   <br><br>
 </div>
 ---
