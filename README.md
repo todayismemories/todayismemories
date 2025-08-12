@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=todayismemories&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats - todayismemories" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=todayismemories&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats - todayismemories" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=todayismemories&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages - todayismemories" width="300"/>
 </div>
 <p align="center"> <strong> That's all About me CIAO!</strong></p>
