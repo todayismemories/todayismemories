@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>Hi👋 Folks</h1>
   <br>
-  <img src="ME.jpg" alt="naren-Profile Picture" width="300" style="border-radius:10%; max-width:100%; height:auto;" />
+  <img src="ME.jpg" alt="naren-Profile Picture" width="200" style="border-radius:30%; max-width:100%; height:auto;" />
   <br>
   <h2>Meet me Narendra Arya 😄, i'm a guy who passionate about Web Development.</h2>
     <p>I'm currently a student at Politeknik Negeri Bali, majoring in Information Technology. 🚀 I'm on a mission to become a great Web Developer. I love exploring new things and i'm always curious about the world of technology. 💡</p>
