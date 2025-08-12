@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>Hi👋 Folks</h1>
   <br>
-  <img src="ME.jpg" alt="naren-Profile Picture" width="200" style="border-radius:30%; max-width:100%; height:auto;" />
+  <img src="ME.jpg" alt="naren-Profile Picture" width="200" style="border-radius:0%; max-width:100%; height:auto;" />
   <br>
   <h2>Meet me Narendra Arya 😄, i'm a guy who passionate about Web Development.</h2>
     <p>I'm currently a student at Politeknik Negeri Bali, majoring in Information Technology. 🚀 I'm on a mission to become a great Web Developer. I love exploring new things and i'm always curious about the world of technology. 💡</p>
@@ -59,11 +59,10 @@ Here are some ideas to get you started:
   </p>
 
 <h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=todayismemories&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages - todayismemories" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=todayismemories&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats - todayismemories" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=todayismemories&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats - todayismemories" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=todayismemories&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages - todayismemories" width="300"/>
+</div>
 <p align="center"> <strong> That's all About me CIAO!</strong></p>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB2bDh5NGozMW5kdnE5NDJjaXcwNm4wbXZkdnFoejh5dmdqbW5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UkYA557fdMYTe/giphy.gif" alt="IU waving goodbye" width="300"/>
